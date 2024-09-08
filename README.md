@@ -23,7 +23,7 @@ Vibranthive is a modern blogging application inspired by platforms like Medium, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/chandanck22/vibranthive.git
+git clone 
 ```
 2. Navigate to the project directory:
 ```bash
